@@ -1,0 +1,133 @@
+.title_notice{
+	width: 100%;
+	margin-top: 50px;
+	h2{
+		position: relative;
+		display: flex;
+		margin-left: -10px;
+		width: 100%;
+		color: @color-purple;
+		svg{
+			padding: 5px !important;
+		    height: 25px;
+		    width: 25px;
+		    margin-top: 0px;
+		    margin-right: 0px;
+		    background: #FFF!important;
+		    path{
+		    	fill: @color-purple;
+		    }
+		}
+		span{
+			padding: 0 4px 0 0;
+			background: #fff;
+			font-family: UniRegular;
+		}
+		&:before{
+		margin-top: 20px;
+		background-color: @color-purple;
+		height: 2px;
+		position: absolute;
+		width: 100%;
+		z-index: -1;
+		content: '';
+		}
+	}
+	p{
+		padding: 0;
+		text-align: justify;
+		font-weight: 700;
+		margin-top: 0px;
+		font-family: UniRegular !important;
+	}
+} 
+.about-section{
+	max-width: @screen-lg;
+	width: 100%;
+	margin: auto;
+	margin-top: 25px;
+}
+
+.about-item{
+	padding: 0 20px;
+	h2{
+		position: relative;
+		display: flex;
+		margin-left: -10px;
+		width: 100%;
+		svg{
+			padding: 5px !important;
+		    height: 25px;
+		    width: 25px;
+		    margin-top: 0px;
+		    margin-right: 0px;
+		    background: #FFF!important;
+		}
+		span{
+			padding: 0 4px 0 0;
+			background: #fff;
+			font-family: UniRegular;
+		}
+		&:before{
+		margin-top: 20px;
+		background-color: @color-yellow;
+		height: 2px;
+		position: absolute;
+		width: 100%;
+		z-index: -1;
+		content: '';
+		}
+	}
+	p{
+		padding: 0;
+		text-align: justify;
+		margin-top: 0px;
+		font-family: 'Roboto', sans-serif;
+	}
+	strong{
+		color: @color-gray-thin;
+		width: 100%;
+		text-align: left;
+		margin-right: 5px;
+		font-family: UniBold;
+		font-weight: 100;
+		line-height: 1em;
+		margin-top: 10px;
+	}
+}
+.team{
+	margin-top: 20px; 
+	svg{
+		height: 15px;
+		margin-top: 25px;
+		padding: 0;
+		margin-right: -10px;
+		path{
+			fill: @color-purple;
+		}
+	}
+	h2{
+		text-align: left;
+		font-family: UniRegular;
+		font-weight: 700;
+	}
+	.rectangle{
+		background-color: @color-purple;
+		width: 100%;
+		padding: 12px;
+		height: 105px;
+    	margin-top: -60px;
+    	.responsive(@screen-sm,{
+				margin-top: 0;
+    		});
+		h3{
+			color: @color-white;
+			font-family: UniBold;
+			font-weight: 100;
+			font-size: 28px;
+			line-height: 1em;
+			text-align: left;
+			margin: 0;
+		}
+	}
+}

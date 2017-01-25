@@ -1,0 +1,79 @@
+.form-contact{
+		margin-top: 50px;
+		background-color: @color-yellow;
+		padding: 20px;
+		.item-contact{
+			margin: 6px 0;
+		}
+		label{
+			color: @color-white;
+			font-weight: 700;
+			padding: 10px 0;
+			margin-top: 12px;
+		}
+		input, textarea{
+			border: none;
+			width: 100%;
+			outline: 0px;
+			padding: 5px;
+			color: #000;
+		}
+		textarea{
+			height: 60px;
+			resize: none;
+			color: #000;
+			font-weight: 700;
+		}
+		button{
+			border: none;
+			outline: 0px;
+			background-color: @color-purple;
+			color: @color-white;
+			font-weight: 700;
+			padding: 6px 20px;
+			transition: all .5s;
+			font-size: 18px; 
+		}
+		button:hover{
+			opacity: .9;
+		}
+	}
+
+.form-search{
+	margin-top: -55%;
+    margin-right: 10%;
+    background-color: white;
+    padding: 40px 12px 12px;
+    border-radius: 10px;
+    width: 200px;
+    label{
+    	color: @color-gray-thin;
+    	font-weight: bold;
+    }
+    input, select{
+    	border: none;
+    	outline: 0;
+    	background-color: #e1e1e1;
+    	border-radius: 10px;
+    	margin: 0px 0 12px;
+    	padding: 5px;
+    	color: @color-gray;
+    	font-weight: bold;
+    }
+    input{
+    	background-image: url(../images/lupa.png);
+    	background-position: left;
+    	padding-left: 10px;
+    	background-repeat: no-repeat;
+    	width: 80px;
+    }
+    select{
+    	background-image: url(../images/down.png);
+    	background-repeat:  no-repeat;
+    	background-position: right;
+    	-webkit-appearance: none;
+    	-moz-appearance: none;
+    	appearance: none;
+    	cursor: pointer;
+    }
+}

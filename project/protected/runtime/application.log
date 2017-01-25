@@ -1,0 +1,1968 @@
+2016/05/19 04:33:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/19 04:33:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/19 04:33:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/19 04:33:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/19 04:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/19 04:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/19 04:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/19 04:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/19 04:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/admin-variables.js".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('js/admin-variab...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/js/admin-variables.js
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/login
+---
+2016/05/19 04:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/admin.js".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('js/admin.js')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/js/admin.js
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/login
+---
+2016/05/19 04:49:39 [error] [php] include(Galleries.php): failed to open stream: No such file or directory (C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\YiiBase.php:432)
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\DefaultController.php(37): spl_autoload_call()
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): DefaultController->actionIndex()
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): DefaultController->runAction()
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): DefaultController->runActionWithFilters()
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): DefaultController->run()
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#8 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CWebApplication->run()
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/index
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\DefaultController.php (37)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\index.php (13)
+2016/05/19 04:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/index
+---
+2016/05/19 04:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/index
+---
+2016/05/19 04:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/index
+---
+2016/05/19 04:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/index
+---
+2016/05/19 04:52:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lantel__admin/news/admin".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('lantel__admin/n...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/index
+---
+2016/05/19 04:52:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:52:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:52:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:52:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lantel__admin/news/admin".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('lantel__admin/n...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/index
+---
+2016/05/19 04:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:55:45 [error] [php] include(Noticias.php): failed to open stream: No such file or directory (C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\YiiBase.php:432)
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\NewsController.php(77): spl_autoload_call()
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): NewsController->actionAdmin()
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(133): NewsController->runAction()
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CInlineFilter.php(58): NewsController->filterAccessControl()
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): NewsController->runActionWithFilters()
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): NewsController->run()
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CWebApplication->run()
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\NewsController.php (77)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\index.php (13)
+2016/05/19 04:55:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:55:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:55:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:55:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 04:58:34 [error] [php] include(Noticas.php): failed to open stream: No such file or directory (C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\YiiBase.php:432)
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\NewsController.php(103): spl_autoload_call()
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): NewsController->actionCreate()
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(133): NewsController->runAction()
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CInlineFilter.php(58): NewsController->filterAccessControl()
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): NewsController->runActionWithFilters()
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): NewsController->run()
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CWebApplication->run()
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/news/create
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\NewsController.php (103)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\index.php (13)
+2016/05/19 04:58:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/create
+---
+2016/05/19 04:58:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/create
+---
+2016/05/19 04:58:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/create
+---
+2016/05/19 04:58:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/create
+---
+2016/05/19 05:02:58 [error] [exception.CException] exception 'CException' with message 'Property "Noticias.categoria0" is not defined.' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CComponent.php:130
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(145): CComponent->__get('categoria0')
+#1 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\views\news\view.php(40): CActiveRecord->__get('categoria0')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(126): require('C:\\wamp\\www\\dod...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp\\www\\dod...', Array, true)
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): CBaseController->renderFile('C:\\wamp\\www\\dod...', Array, true)
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(782): CController->renderPartial('view', Array, true)
+#6 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\NewsController.php(163): CController->render('view', Array)
+#7 [internal function]: NewsController->actionView('1')
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(NewsController), Array)
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(NewsController), Object(ReflectionMethod), Array)
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilter.php(40): CFilterChain->run()
+#13 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(291): CFilterChain->run()
+#17 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('view')
+#19 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('lantel__admin/n...')
+#20 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#21 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/news/1
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/create
+---
+2016/05/19 05:04:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/150x150/a0a4c228be21d021a8b7aceb012271e9.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/150...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/150x150/a0a4c228be21d021a8b7aceb012271e9.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/news/admin
+---
+2016/05/19 05:20:23 [error] [php] Undefined index: file (C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\PostsController.php:140)
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(133): PostsController->runAction()
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CInlineFilter.php(58): PostsController->filterAccessControl()
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(291): CFilterChain->run()
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): PostsController->runActionWithFilters()
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): PostsController->run()
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CWebApplication->run()
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/posts/create
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\PostsController.php (140)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\index.php (13)
+2016/05/19 05:20:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/posts/create
+---
+2016/05/19 05:20:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/posts/create
+---
+2016/05/19 05:20:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/posts/create
+---
+2016/05/19 05:20:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/posts/create
+---
+2016/05/19 05:22:39 [error] [exception.CException] exception 'CException' with message 'Property "Posts.imagen" is not defined.' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CComponent.php:130
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(145): CComponent->__get('imagen')
+#1 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\views\posts\view.php(4): CActiveRecord->__get('imagen')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(126): require('C:\\wamp\\www\\dod...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp\\www\\dod...', Array, true)
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): CBaseController->renderFile('C:\\wamp\\www\\dod...', Array, true)
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(782): CController->renderPartial('view', Array, true)
+#6 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\PostsController.php(169): CController->render('view', Array)
+#7 [internal function]: PostsController->actionView('1')
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(PostsController), Object(ReflectionMethod), Array)
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilter.php(40): CFilterChain->run()
+#13 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(291): CFilterChain->run()
+#17 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('view')
+#19 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('lantel__admin/p...')
+#20 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#21 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/posts/1
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/posts/create
+---
+2016/05/19 05:29:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'. The SQL statement executed was: SELECT * FROM `posts` `t` WHERE status = :key ORDER BY name ASC.
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\components\MyMethods.php (233)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\views\posts\_form.php (32)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\views\posts\create.php (7)
+2016/05/19 05:29:15 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'. The SQL statement executed was: SELECT * FROM `posts` `t` WHERE status = :key ORDER BY name ASC' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1356): CDbCommand->queryAll()
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1475): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\components\MyMethods.php(233): CActiveRecord->findAll(Array)
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\views\posts\_form.php(32): MyMethods::getListSelect('Posts', 'id_post', 'name')
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(126): require('C:\\wamp\\www\\dod...')
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp\\www\\dod...', Array, true)
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): CBaseController->renderFile('C:\\wamp\\www\\dod...', Array, true)
+#8 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\views\posts\create.php(7): CController->renderPartial('_form', Array)
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(126): require('C:\\wamp\\www\\dod...')
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp\\www\\dod...', Array, true)
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): CBaseController->renderFile('C:\\wamp\\www\\dod...', Array, true)
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(782): CController->renderPartial('create', Array, true)
+#13 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\modules\lantel__admin\controllers\PostsController.php(156): CController->render('create', Array)
+#14 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): PostsController->actionCreate()
+#15 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#16 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#17 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilter.php(40): CFilterChain->run()
+#18 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(291): CFilterChain->run()
+#22 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('create')
+#24 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('lantel__admin/p...')
+#25 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#26 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#27 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/lantel__admin/posts/create
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/05/20 04:45:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 04:45:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 04:45:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 04:45:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 04:52:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/print.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 04:52:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/screen.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 04:52:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/css/form.css
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 05:21:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:07:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:07:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:15:13 [error] [php] Undefined variable: post (C:\wamp\www\dodmediagroup\projects\lantel\project\protected\views\site\index.php:6)
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\SiteController.php(33): SiteController->render()
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CWebApplication->run()
+REQUEST_URI=/dodmediagroup/projects/lantel/project/
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\views\site\index.php (6)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\SiteController.php (33)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\index.php (13)
+2016/05/20 06:15:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:21:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:21:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:22:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:24:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:28:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/default.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/def...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/news/default.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:45:13 [error] [exception.CException] exception 'CException' with message 'Property "Noticias.content" is not defined.' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CComponent.php:130
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(145): CComponent->__get('content')
+#1 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\views\site\index.php(28): CActiveRecord->__get('content')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(126): require('C:\\wamp\\www\\dod...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp\\www\\dod...', Array, true)
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): CBaseController->renderFile('C:\\wamp\\www\\dod...', Array, true)
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\SiteController.php(35): CController->render('index', Array)
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('')
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('')
+#13 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('index.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/index.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:48:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('index.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/index.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('index.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/index.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "nosotros.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('nosotros.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/nosotros.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/index.html
+---
+2016/05/20 06:54:41 [error] [exception.CException] exception 'CException' with message 'Property "Noticias.title" is not defined.' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CComponent.php:130
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(145): CComponent->__get('title')
+#1 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\views\site\index.php(28): CActiveRecord->__get('title')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(126): require('C:\\wamp\\www\\dod...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp\\www\\dod...', Array, true)
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): CBaseController->renderFile('C:\\wamp\\www\\dod...', Array, true)
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\SiteController.php(35): CController->render('index', Array)
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('')
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('')
+#13 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:59:03 [error] [exception.CException] exception 'CException' with message 'Property "Noticias.contentido" is not defined.' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CComponent.php:130
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(145): CComponent->__get('contentido')
+#1 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\views\noticias\view.php(5): CActiveRecord->__get('contentido')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(126): require('C:\\wamp\\www\\dod...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp\\www\\dod...', Array, true)
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): CBaseController->renderFile('C:\\wamp\\www\\dod...', Array, true)
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(782): CController->renderPartial('view', Array, true)
+#6 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\NoticiasController.php(11): CController->render('view', Array)
+#7 [internal function]: NoticiasController->actionView('1_google_lanzo_...')
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(NoticiasController), Array)
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(NoticiasController), Object(ReflectionMethod), Array)
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('view')
+#14 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('noticias/view')
+#15 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#16 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/noticias/1_google_lanzo_allo_y_duo
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/20 06:59:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('images')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('images')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('noticias/images...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/noticias/images/plus-icon.svg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/noticias/1_google_lanzo_allo_y_duo
+---
+2016/05/20 06:59:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('images')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('images')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('noticias/images...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/noticias/images/consultancy/item-1.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/noticias/1_google_lanzo_allo_y_duo
+---
+2016/05/20 06:59:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('images')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('images')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('noticias/images...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/noticias/images/plus-icon.svg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/noticias/1_google_lanzo_allo_y_duo
+---
+2016/05/20 06:59:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "images".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('images')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('images')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('noticias/images...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/noticias/images/consultancy/item-1.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/noticias/1_google_lanzo_allo_y_duo
+---
+2016/05/20 07:13:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/team/team-1.png".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/team/tea...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/team/team-1.png
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/nosotros
+---
+2016/05/20 07:14:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/team/team-1.png".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/team/tea...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/team/team-1.png
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/nosotros
+---
+2016/05/20 07:14:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/team/team-1.png".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/team/tea...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/team/team-1.png
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/nosotros
+---
+2016/05/20 07:35:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tel-comunicacion.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('tel-comunicacio...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/tel-comunicacion.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/consultoria
+---
+2016/05/20 07:35:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tel-comunicacion.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('tel-comunicacio...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/tel-comunicacion.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/consultoria
+---
+2016/05/20 07:35:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tel-comunicacion.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('tel-comunicacio...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/tel-comunicacion.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/tel-comunicacion.html
+---
+2016/05/20 07:38:13 [error] [exception.CException] exception 'CException' with message 'Property "Posts.navigation" is not defined.' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CComponent.php:130
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(145): CComponent->__get('navigation')
+#1 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\views\site\telecomunicaciones.php(11): CActiveRecord->__get('navigation')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(126): require('C:\\wamp\\www\\dod...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CBaseController.php(95): CBaseController->renderInternal('C:\\wamp\\www\\dod...', Array, true)
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(869): CBaseController->renderFile('C:\\wamp\\www\\dod...', Array, true)
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(782): CController->renderPartial('telecomunicacio...', Array, true)
+#6 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\SiteController.php(58): CController->render('telecomunicacio...', Array)
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionTelecomunicaciones()
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('telecomunicacio...')
+#12 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/telecomuni...')
+#13 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/telecomunicaciones
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/telecomunicaciones
+---
+2016/05/20 07:38:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "telecomunicaciones/view".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('telecomunicacio...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/telecomunicaciones/soluciones_it
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/telecomunicaciones
+---
+2016/05/20 07:41:10 [error] [exception.CDbException] exception 'CDbException' with message 'Table "posts" does not have a column named "estado".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\schema\CDbCommandBuilder.php:697
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1523): CDbCommandBuilder->createColumnCriteria(Object(CMysqlTableSchema), Array, '', Array, '`t`.')
+#1 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\TelecomunicacionesController.php(18): CActiveRecord->findByAttributes(Array)
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\TelecomunicacionesController.php(6): TelecomunicacionesController->loadModel('soluciones_it')
+#3 [internal function]: TelecomunicacionesController->actionView('soluciones_it')
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(TelecomunicacionesController), Array)
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TelecomunicacionesController), Object(ReflectionMethod), Array)
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('view')
+#10 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('telecomunicacio...')
+#11 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#12 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/telecomunicaciones/soluciones_it
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/telecomunicaciones
+---
+2016/05/20 07:41:20 [error] [php] Undefined variable: id_post (C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\TelecomunicacionesController.php:8)
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): TelecomunicacionesController->runAction()
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): TelecomunicacionesController->runActionWithFilters()
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): TelecomunicacionesController->run()
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#7 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CWebApplication->run()
+REQUEST_URI=/dodmediagroup/projects/lantel/project/telecomunicaciones/soluciones_it
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\TelecomunicacionesController.php (8)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\index.php (13)
+2016/05/20 07:41:31 [error] [php] Trying to get property of non-object (C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\TelecomunicacionesController.php:8)
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): TelecomunicacionesController->runAction()
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): TelecomunicacionesController->runActionWithFilters()
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): TelecomunicacionesController->run()
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#7 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CWebApplication->run()
+REQUEST_URI=/dodmediagroup/projects/lantel/project/telecomunicaciones/soluciones_it
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\TelecomunicacionesController.php (8)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\index.php (13)
+2016/05/20 07:42:19 [error] [php] Trying to get property of non-object (C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\TelecomunicacionesController.php:8)
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(286): TelecomunicacionesController->runAction()
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(265): TelecomunicacionesController->runActionWithFilters()
+#4 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): TelecomunicacionesController->run()
+#5 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#7 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CWebApplication->run()
+REQUEST_URI=/dodmediagroup/projects/lantel/project/telecomunicaciones/soluciones_it
+in C:\wamp\www\dodmediagroup\projects\lantel\project\protected\controllers\TelecomunicacionesController.php (8)
+in C:\wamp\www\dodmediagroup\projects\lantel\project\index.php (13)
+2016/05/20 08:28:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "suministros.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('suministros.htm...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('suministros.htm...')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('telecomunicacio...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/telecomunicaciones/suministros.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/telecomunicaciones/soluciones_it
+---
+2016/05/20 08:29:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/consultancy/item-1.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/consulta...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/consultancy/item-1.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/20 08:53:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/consultancy/item-1.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/consulta...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/consultancy/item-1.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/20 08:53:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/consultancy/item-1.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/consulta...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/consultancy/item-1.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/20 08:54:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/consultancy/item-1.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/consulta...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/consultancy/item-1.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/20 08:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/consultancy/item-1.jpg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/consulta...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/consultancy/item-1.jpg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/20 09:01:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "energia.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('energia.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/energia.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/20 09:03:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "suministros/view".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('suministros/vie...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/suministros/tecnologicos
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/20 09:03:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "suministros/view".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('suministros/vie...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/suministros/fibra_optica
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/22 00:24:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "energia.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('energia.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('energia.html')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('suministros/ene...')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/suministros/energia.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros/fibra_optica
+---
+2016/05/22 00:35:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "energia.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('energia.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/energia.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/22 00:42:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "energia.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('energia.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/energia.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/22 00:45:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "energia/view".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('energia/view')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/energia/diseno_suministro_construccion_operacion_y_mantenimiento_de_parques_solares
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/energia
+---
+2016/05/22 00:47:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contacto.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('contacto.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/contacto.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/suministros
+---
+2016/05/22 00:48:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contacto.html".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('contacto.html')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/contacto.html
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/contacto.html
+---
+2016/05/22 01:02:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/plus-icon.png".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/plus-ico...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/plus-icon.png
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/css/main.css
+---
+2016/05/22 01:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/logo.png
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/
+---
+2016/05/22 01:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/ajax-loader.gif".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/ajax-loa...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/ajax-loader.gif
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/css/main.css
+---
+2016/05/23 11:24:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sadasd".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('sadasd')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('sadasd')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/sadasd')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:24:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/img-error.svg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/img-erro...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/img-error.svg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:24:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sadasd".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('sadasd')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('sadasd')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/sadasd')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:24:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/img-error.svg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/img-erro...')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/images/img-error.svg
+HTTP_REFERER=http://localhost/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:25:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sadasd".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('sadasd')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('sadasd')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/sadasd')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:26:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sadasd".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('sadasd')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('sadasd')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/sadasd')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:26:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sadasd".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('sadasd')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('sadasd')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/sadasd')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:26:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sadasd".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('sadasd')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('sadasd')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/sadasd')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:26:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sadasd".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('sadasd')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('sadasd')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/sadasd')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:26:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sadasd".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('sadasd')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('sadasd')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/sadasd')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/sadasd
+---
+2016/05/23 11:27:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "dfgdg".' in C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('dfgdg')
+#1 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('dfgdg')
+#2 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/dfgdg')
+#3 C:\wamp\www\dodmediagroup\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\wamp\www\dodmediagroup\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmediagroup/projects/lantel/project/dfgdg
+---
+2016/07/08 08:10:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "venta-capacidad".' in C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('venta-capacidad')
+#1 C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\DODMedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/DODMedia/projects/lantel/project/venta-capacidad
+HTTP_REFERER=http://localhost/DODMedia/projects/lantel/project/
+---
+2016/07/08 08:12:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/back-venta.png".' in C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/back-ven...')
+#1 C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\DODMedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/DODMedia/projects/lantel/project/images/back-venta.png
+HTTP_REFERER=http://localhost/DODMedia/projects/lantel/project/ventaCapacidad
+---
+2016/07/08 08:12:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/img-back-venta.svg".' in C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/img-back...')
+#1 C:\xampp\htdocs\DODMedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\DODMedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/DODMedia/projects/lantel/project/images/img-back-venta.svg
+HTTP_REFERER=http://localhost/DODMedia/projects/lantel/project/ventaCapacidad
+---
+2016/07/15 06:24:08 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1049] Unknown database 'dod_lantel' in D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php:399
+Stack trace:
+#0 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(347): CDbConnection->open()
+#1 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(325): CDbConnection->setActive(true)
+#2 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CModule.php(394): CDbConnection->init()
+#3 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(458): CModule->getComponent('db')
+#4 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1433): CActiveRecord->getDbConnection()
+#6 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1539): CActiveRecord->getTableAlias(true)
+#7 D:\xampp\htdocs\dodmedia\projects\lantel\project\protected\controllers\SiteController.php(30): CActiveRecord->findAllByAttributes(Array, Array)
+#8 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#9 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('')
+#13 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('')
+#14 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/
+---
+2016/07/15 06:24:36 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'dodmedia_sergio'@'localhost' (using password: YES) in D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php:399
+Stack trace:
+#0 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(347): CDbConnection->open()
+#1 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(325): CDbConnection->setActive(true)
+#2 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CModule.php(394): CDbConnection->init()
+#3 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(458): CModule->getComponent('db')
+#4 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1433): CActiveRecord->getDbConnection()
+#6 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1539): CActiveRecord->getTableAlias(true)
+#7 D:\xampp\htdocs\dodmedia\projects\lantel\project\protected\controllers\SiteController.php(30): CActiveRecord->findAllByAttributes(Array, Array)
+#8 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#9 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('')
+#13 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('')
+#14 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/
+---
+2016/07/15 06:26:32 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'dodmedia_sergio'@'localhost' (using password: YES) in D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php:399
+Stack trace:
+#0 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(347): CDbConnection->open()
+#1 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(325): CDbConnection->setActive(true)
+#2 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CModule.php(394): CDbConnection->init()
+#3 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(458): CModule->getComponent('db')
+#4 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1433): CActiveRecord->getDbConnection()
+#6 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1539): CActiveRecord->getTableAlias(true)
+#7 D:\xampp\htdocs\dodmedia\projects\lantel\project\protected\controllers\SiteController.php(30): CActiveRecord->findAllByAttributes(Array, Array)
+#8 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#9 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('')
+#13 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('')
+#14 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/
+---
+2016/07/15 06:26:41 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'dodmedia_sergio'@'localhost' (using password: YES) in D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php:399
+Stack trace:
+#0 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(347): CDbConnection->open()
+#1 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(325): CDbConnection->setActive(true)
+#2 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CModule.php(394): CDbConnection->init()
+#3 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(458): CModule->getComponent('db')
+#4 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1433): CActiveRecord->getDbConnection()
+#6 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1539): CActiveRecord->getTableAlias(true)
+#7 D:\xampp\htdocs\dodmedia\projects\lantel\project\protected\controllers\SiteController.php(30): CActiveRecord->findAllByAttributes(Array, Array)
+#8 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#9 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('')
+#13 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('')
+#14 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/
+---
+2016/07/15 06:27:14 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1049] Unknown database 'dod_lantel' in D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php:399
+Stack trace:
+#0 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(347): CDbConnection->open()
+#1 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(325): CDbConnection->setActive(true)
+#2 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CModule.php(394): CDbConnection->init()
+#3 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(458): CModule->getComponent('db')
+#4 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1433): CActiveRecord->getDbConnection()
+#6 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1539): CActiveRecord->getTableAlias(true)
+#7 D:\xampp\htdocs\dodmedia\projects\lantel\project\protected\controllers\SiteController.php(30): CActiveRecord->findAllByAttributes(Array, Array)
+#8 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#9 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('')
+#13 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('')
+#14 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#15 D:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/
+---
+2016/07/31 19:47:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "as".' in D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('as')
+#1 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('as')
+#2 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/as')
+#3 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 D:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/as
+---
+2016/07/31 20:44:36 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1049] Unknown database 'dodmediabd_lantel'' in D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php:399
+Stack trace:
+#0 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(347): CDbConnection->open()
+#1 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\CDbConnection.php(325): CDbConnection->setActive(true)
+#2 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CModule.php(394): CDbConnection->init()
+#3 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(458): CModule->getComponent('db')
+#4 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(637): CApplication->getDb()
+#5 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1433): CActiveRecord->getDbConnection()
+#6 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\db\ar\CActiveRecord.php(1522): CActiveRecord->getTableAlias(true)
+#7 D:\xampp\htdocs\dodmedia\projects\lantel\project\protected\components\UserIdentity.php(20): CActiveRecord->findByAttributes(Array)
+#8 D:\xampp\htdocs\dodmedia\projects\lantel\project\protected\models\LoginForm.php(50): UserIdentity->authenticate()
+#9 D:\xampp\htdocs\dodmedia\projects\lantel\project\protected\modules\lantel__admin\controllers\DefaultController.php(57): LoginForm->login()
+#10 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\actions\CInlineAction.php(49): DefaultController->actionLogin()
+#11 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('login')
+#15 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('lantel__admin/d...')
+#16 D:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#17 D:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/lantel__admin/login
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/login
+---
+2016/09/07 06:39:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:39:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:39:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/css/main.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:42:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/Banner_princial.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/B...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/Banner_princial.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:51:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/owl-carousel.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/owl-carousel.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:51:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-carousel.js".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-caro...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-carousel.js
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:51:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-carousel.js".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-caro...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-carousel.js
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:52:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/owl-carousel.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/owl-carousel.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/owl-carousel.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/owl-carousel.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-carousel.js".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-caro...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-carousel.js
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-carousel.js".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-caro...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-carousel.js
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:53:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/owl-carousel.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/owl-carousel.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:53:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-carousel.js".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-caro...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-carousel.js
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:53:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-carousel.js".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-caro...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-carousel.js
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:53:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/owl-carousel.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/owl-carousel.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:54:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/owl-carousel.css".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/owl-carousel.css
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:54:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/owl-carousel.js".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/owl-carousel.js
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:54:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/owl-carousel.js".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/owl-carousel.js
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/07 06:58:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "vendor/owl-slide/grabbing.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('vendor/owl-slid...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/vendor/owl-slide/grabbing.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/vendor/owl-slide/owl.carousel.css
+---
+2016/09/08 23:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/Banner_principal.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/B...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/Banner_principal.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/08 23:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/Banner_principal-2.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/B...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/Banner_principal-2.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/08 23:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/Banner_principal-3.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/B...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/Banner_principal-3.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/08 23:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/Banner_principal.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/B...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/Banner_principal.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/08 23:36:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/banner_principal.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/b...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/banner_principal.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/08 23:36:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/Banner_principal.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/B...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/Banner_principal.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/08 23:36:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/banner_principal-3.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/b...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/banner_principal-3.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/08 23:36:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/banner_principal-2.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/b...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/banner_principal-2.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/09/08 23:37:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner/Banner_principal.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/banner/B...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/banner/Banner_principal.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/12/23 02:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/4f401ce6290b350b20ed381444620f4b.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/4f4...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/4f401ce6290b350b20ed381444620f4b.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/12/23 02:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/a0a4c228be21d021a8b7aceb012271e9.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/a0a...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/a0a4c228be21d021a8b7aceb012271e9.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/12/23 02:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/d867cfd80e70b8fc7d6e4103560ec064.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/d86...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/d867cfd80e70b8fc7d6e4103560ec064.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/12/23 02:00:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "as".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php:483
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CController.php(270): CController->missingAction('as')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(282): CController->run('as')
+#2 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('site/as')
+#3 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/as
+---
+2016/12/23 04:09:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/d867cfd80e70b8fc7d6e4103560ec064.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/d86...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/d867cfd80e70b8fc7d6e4103560ec064.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/12/23 04:09:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/a0a4c228be21d021a8b7aceb012271e9.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/a0a...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/a0a4c228be21d021a8b7aceb012271e9.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/12/23 04:09:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/4f401ce6290b350b20ed381444620f4b.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/4f4...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/4f401ce6290b350b20ed381444620f4b.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/
+---
+2016/12/23 04:09:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/300x300/d867cfd80e70b8fc7d6e4103560ec064.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/300...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/300x300/d867cfd80e70b8fc7d6e4103560ec064.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/news/admin
+---
+2016/12/23 04:09:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/300x300/a0a4c228be21d021a8b7aceb012271e9.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/300...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/300x300/a0a4c228be21d021a8b7aceb012271e9.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/news/admin
+---
+2016/12/23 04:09:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/300x300/4f401ce6290b350b20ed381444620f4b.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/300...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/300x300/4f401ce6290b350b20ed381444620f4b.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/news/admin
+---
+2016/12/23 04:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/d2c563b30393c42badd1af0983167c85.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/d2c563b30393c42badd1af0983167c85.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/d5f66058c63ab7702e7eeca37db88d2c.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/d5f66058c63ab7702e7eeca37db88d2c.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/afb8aeb0188abbf45ad513d60fb79e16.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/afb8aeb0188abbf45ad513d60fb79e16.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/3752da5860a1591f5c68c8a86b431207.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/3752da5860a1591f5c68c8a86b431207.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/a512701a704a358089543dacf1ca82c5.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/a512701a704a358089543dacf1ca82c5.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/9506d1e2e7c2b6798080ed9e76a98b5e.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/9506d1e2e7c2b6798080ed9e76a98b5e.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/22f3b667048c3c67039d08ce4c900c71.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/22f3b667048c3c67039d08ce4c900c71.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/7d1e7e4a2b93f42323b17193fec05d79.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/7d1e7e4a2b93f42323b17193fec05d79.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/d2c563b30393c42badd1af0983167c85.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/d2c563b30393c42badd1af0983167c85.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/afb8aeb0188abbf45ad513d60fb79e16.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/afb8aeb0188abbf45ad513d60fb79e16.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/d5f66058c63ab7702e7eeca37db88d2c.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/d5f66058c63ab7702e7eeca37db88d2c.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/7d1e7e4a2b93f42323b17193fec05d79.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/7d1e7e4a2b93f42323b17193fec05d79.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/a512701a704a358089543dacf1ca82c5.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/a512701a704a358089543dacf1ca82c5.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/3752da5860a1591f5c68c8a86b431207.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/3752da5860a1591f5c68c8a86b431207.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/22f3b667048c3c67039d08ce4c900c71.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/22f3b667048c3c67039d08ce4c900c71.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/9506d1e2e7c2b6798080ed9e76a98b5e.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/9506d1e2e7c2b6798080ed9e76a98b5e.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 04:10:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/300x300/4f401ce6290b350b20ed381444620f4b.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/300...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/300x300/4f401ce6290b350b20ed381444620f4b.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/news/admin
+---
+2016/12/23 04:10:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/300x300/d867cfd80e70b8fc7d6e4103560ec064.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/300...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/300x300/d867cfd80e70b8fc7d6e4103560ec064.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/news/admin
+---
+2016/12/23 04:10:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/news/300x300/a0a4c228be21d021a8b7aceb012271e9.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/news/300...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/news/300x300/a0a4c228be21d021a8b7aceb012271e9.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/news/admin
+---
+2016/12/23 07:39:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/3752da5860a1591f5c68c8a86b431207.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/3752da5860a1591f5c68c8a86b431207.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 07:39:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/afb8aeb0188abbf45ad513d60fb79e16.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/afb8aeb0188abbf45ad513d60fb79e16.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 07:39:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/d5f66058c63ab7702e7eeca37db88d2c.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/d5f66058c63ab7702e7eeca37db88d2c.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 07:39:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/a512701a704a358089543dacf1ca82c5.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/a512701a704a358089543dacf1ca82c5.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 07:39:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/d2c563b30393c42badd1af0983167c85.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/d2c563b30393c42badd1af0983167c85.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 07:39:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/7d1e7e4a2b93f42323b17193fec05d79.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/7d1e7e4a2b93f42323b17193fec05d79.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 07:39:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/9506d1e2e7c2b6798080ed9e76a98b5e.jpg".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/9506d1e2e7c2b6798080ed9e76a98b5e.jpg
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---
+2016/12/23 07:39:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/posts/150x150/22f3b667048c3c67039d08ce4c900c71.png".' in E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php:286
+Stack trace:
+#0 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\web\CWebApplication.php(141): CWebApplication->runController('images/posts/15...')
+#1 E:\xampp\htdocs\dodmedia\frameworks\yii\1.1.16\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\xampp\htdocs\dodmedia\projects\lantel\project\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dodmedia/projects/lantel/project/images/posts/150x150/22f3b667048c3c67039d08ce4c900c71.png
+HTTP_REFERER=http://localhost/dodmedia/projects/lantel/project/lantel__admin/posts/admin
+---

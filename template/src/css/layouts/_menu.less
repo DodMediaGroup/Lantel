@@ -1,0 +1,119 @@
+#principal-menu{
+	width: 100%;
+	margin: 4px 0;
+	transition: all .3s;
+	background-color: @color-purple;
+	.responsive(@screen-sm,{
+		display: none;
+		&.active{
+			display: block;
+
+		}
+		});
+	ul{
+		padding: 0;
+		.responsive(@screen-sm,{
+				display: block;
+				li{
+					a{
+						p{
+							margin: 0 5% !important;
+						}
+					}
+				}
+			});
+		li{
+			transition: background-color 0.8s ease;
+			background-color: @color-purple;
+			list-style: none;
+    		height: 70px;
+    		.responsive(@screen-sm,{
+				border-bottom: 2px #fff solid;
+    			});
+			a{
+				text-decoration: none;
+				p{
+					font-family: UniRegular;
+					color: @color-white;
+					font-size: 16px;
+					font-weight: 600;
+					margin: 0;
+					.responsive(@screen-md,{
+						font-size: 14px;
+						});
+				} 
+			}
+			img{
+				display: none;
+			}
+		}
+		li:hover{
+			background-color: @color-purple-dark;
+		}
+		li .active{
+			background-color: @color-purple-dark;
+		}
+}
+} 
+.menu-fixed{
+	background: @color-purple;
+	z-index: 9999;
+	position: fixed;
+	top: 0;
+    left: 0;
+    margin: 0 !important;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.5);
+    .logo-fixed{
+    	display: block !important;
+    	.logo-img{
+    		height: 60px;
+    		padding: 10px 0 15px 15px;
+    		display: block;
+    		display: flex !important;
+    		.responsive(@screen-md,{
+    			height: 60px;
+    			padding: 10px 15px 23px;
+    			});
+    		.responsive(@screen-sm,{
+    			padding: 0;
+				margin: 10px 5%;
+    			height: 50px;
+    			& :before{
+    				background: url(../images/btn-menu.png)
+    			}
+    		});
+    	}
+    }
+    .social-icon-fixed-fb{
+    	display: flex;
+    	padding: 14px 0 15px 0!important;
+    	background: @color-purple;
+    	.responsive(@screen-sm,{
+			justify-content: center;
+    		width: 50px;
+   			margin-left: 40%;
+    		});
+    	img{
+    		padding: 0 5px;
+    		height: 40px;
+    		display: block !important;
+    	}
+    }
+    .social-icon-fixed-tw{
+    	display: flex;
+    	padding: 14px 15px 15px 0!important;
+    	background: @color-purple;
+    	.responsive(@screen-sm,{
+			justify-content: center;
+    		margin-top: -69px;
+    		width: 50px;
+    		margin-left: 52%;
+    		padding: 14px 0 15px 0!important;
+    		});
+    	img{
+    		padding: 0 5px;
+    		height: 40px;
+    		display: block !important;
+    	}
+    }
+}

@@ -1,0 +1,21 @@
+nav#principal-menu
+	- var items = [{'item': 'NOSOTROS', 'link':'nosotros.html'},{'item': 'CONSULTORÍA', 'link':'consultoria.html'},{'item': 'TELECOMUNICACIONES', 'link':'tel-comunicacion.html'},{'item': 'VENTA DE CAPACIDAD Y COBERTURA','link':'venta-capacidad.html'},{'item': 'SUMINISTROS','link':'suministros.html'},{'item': 'ENERGÍA', 'link':'energia.html'}]
+	ul.row.middle-xs.center-xs.limiter__container
+		li.logo-fixed
+			a(href="index.html")
+				img.logo-img(src="images/logo/logo-white.png")
+				div(data-menu=".menu").menu-bars
+					span.bar
+					span.bar
+					span.bar
+		each item in items
+
+			li.item.col-xs.row.middle-xs.center-xs
+				a(href="#{item.link}")
+					p.text-item= item.item
+		li.social-icon-fixed-fb
+			a(href="#")
+				img(src="images/facebook-icon.svg")
+		li.social-icon-fixed-tw
+			a(href="#")
+				img(src="images/twitter-icon.svg")

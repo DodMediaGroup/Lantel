@@ -1,0 +1,75 @@
+footer{
+	width: 100%;
+	position: relative;
+	margin-top: 30px !important;
+	.form-footer{
+		background-color: @color-yellow;
+		padding: 20px;
+		label{
+			color: @color-white;
+			font-weight: 700;
+			padding: 10px 0;
+		}
+		input, textarea{
+			border: none;
+			width: 100%;
+			outline: 0px;
+			padding: 5px;
+		}
+		textarea{
+			height: 60px;
+			resize: none;
+		}
+		button{
+			border: none;
+			outline: 0px;
+			background-color: @color-purple;
+			color: @color-white;
+			font-weight: 700;
+			padding: 6px 20px;
+			transition: all .5s;
+			font-size: 18px; 
+		}
+		button:hover{
+			color: @color-white;
+			opacity: .9;
+		}
+	}
+	.content-footer{
+		padding: 20px 5%;
+		margin-top: 10px;
+		.item-footer{
+			width: 100%;
+			justify-content: center;
+			img{
+				margin-right: 12px;
+				height: 50px;
+			}
+			span{
+				color: @color-green;
+				font-size: 22px;
+				font-weight: 700;
+			}
+			h3{
+				margin-top: -30px;
+				margin-left: 123px;
+				color: @color-green;
+				font-size: 30px;
+				font-weight: 900;
+				.responsive(@screen-sm,{
+					margin-top: 20px;
+    				margin-left: -140px;
+					});
+			}
+			p{
+				line-height: .3em;
+				font-weight: 700;
+				font-size: 18px;
+				color: #A6A8AB;
+			}
+			.text-small-footer{
+				font-size: 12px;
+			}
+		}
+	}
+}

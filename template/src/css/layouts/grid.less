@@ -1,0 +1,46 @@
+.row{
+	margin: 0px 0px;
+}
+.limiter__container{
+	margin: auto;
+	max-width: @screen-lg;
+	width: 100%;
+	&.not-padding{
+		padding: 0px;
+	}
+}
+
+.contenido-admin{
+	margin-top: 24px;
+	table{
+		width: 100%;
+		td{
+			width: 33.33%;
+			tr{
+				width: 100%;
+			}
+		}
+	}
+	h1, h2, h3, h4, h5{
+		font-size: 28px;
+		font-weight: 700;
+		text-align: left;
+	}
+		h1, h2, h3, h4, h5::before{
+			background: url(../images/plus-icon.png) no-repeat;
+			padding: 0 28px;
+			height: 25px;
+		}
+	p{
+		text-align: justify;
+		font-weight: 700;
+		padding-right: 20px;
+		.responsive(@screen-md,{
+			padding: 12px;
+			});
+	}
+	img{
+		min-width: auto;
+		min-height: 100%;
+	}
+}
